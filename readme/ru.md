@@ -394,6 +394,8 @@ Be aware that Mind Elixir will not observe the change of `prefers-color-scheme`.
 - [@mind-elixir/export-xmind](https://github.com/ssshooter/export-xmind)
 - [@mind-elixir/export-html](https://github.com/ssshooter/export-html)
 - [mind-elixir-react](https://github.com/ssshooter/mind-elixir-react)
+- [@erseco/mind-elixir-export-mermaid](https://github.com/erseco/mind-elixir-export-mermaid)
+- [@erseco/mind-elixir-export-svg](https://github.com/erseco/mind-elixir-export-svg)
 
 PRs are welcome!
 
